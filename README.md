@@ -4,7 +4,7 @@
 
 <h1 align="center">As-salamu Alaikum, I'm Arif Dewan </h1>
 <h3 align="center">Full stack software engineer  </h3>
-<span align="center">🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh</span>
+<h5 align="center">🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh</h5>
 <img align="right" src="./images/banner.gif" width="350">
 
 <!-- Contact me section starts here  -->

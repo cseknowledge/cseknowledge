@@ -162,8 +162,8 @@ All rights reserved by Arif Dewan @2022
 
 <!-- Links section starts here -->
 
-[website]: <br/>
-[youtube]: https://www.youtube.com/c/anisulislamrubel <br/>
+[website]: http://www.algiras.com <br/>
+[youtube]: https://www.youtube.com/channel/UCySlNcLXVl6IlgoqdaXiXKA <br/>
 [facebook]: https://www.facebook.com/Md.Arif.Dewan.Abdullah/ <br/>
 [linkedin]: https://www.linkedin.com/in/md-arif-dewan-abdullah/ <br/>
 [github]: https://github.com/cseknowledge <br/>

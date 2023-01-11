@@ -2,10 +2,10 @@
 <img src="./images/banner-arif.png" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 As-salamu Alaikum, I'm Arif Dewan </h1>
-
-Full stack software engineer  
-🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh
+<h1 align="center">As-salamu Alaikum, I'm Arif Dewan </h1>
+<h3 align="center">Full stack software engineer  </h3>
+<span align="center">🏠 &nbsp; Living: Tongi, Gazipur, Bangladesh</span>
+<img align="right" src="./images/banner.gif" width="350">
 
 <!-- Contact me section starts here  -->
 
@@ -22,7 +22,7 @@ Full stack software engineer
 
 ### 👨‍🏫 &nbsp; About Me 
 
-<p align="justify">
+<p align="left">
 To keep up with cutting-edge technologies and methodologies. I will put my sincere effort to do my best in any technological domain with the State of Art Excellency that meets all goals and objectives outlined by the client.
 </p>
 

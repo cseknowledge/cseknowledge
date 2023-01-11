@@ -20,7 +20,7 @@ Full stack software engineer
 
 <!-- about-me section starts here  -->
 
-### 👨‍🏫 &nbsp; About Me
+### 👨‍🏫 &nbsp; About Me 
 
 <p align="justify">
 To keep up with cutting-edge technologies and methodologies. I will put my sincere effort to do my best in any technological domain with the State of Art Excellency that meets all goals and objectives outlined by the client.
